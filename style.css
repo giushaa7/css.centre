@@ -1,0 +1,10 @@
+.box{
+height: 250px;
+width:  250px;
+border: 1px solid black;
+margin-left: 35px;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
